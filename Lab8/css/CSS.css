@@ -1,0 +1,112 @@
+body{
+    background-image: url("../images/phone.jpg");
+    background-size: cover;
+}
+.ivent{
+    text-align: center;
+    font-size: 35px;
+    color: burlywood;
+}
+.one1{
+    font-family: "Arial", serif;
+    font-size: medium;
+    font-weight: bold;
+    font-style: italic;
+    color: #d38686;
+    text-align: center;
+    text-indent: 50px;
+    background-color: #14251d;
+    margin: 1px 75px;
+    padding: 20px;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+.two2{
+    font-family: "Calibri", serif;
+    font-size: x-large;
+    font-weight: bolder;
+    color: #00ffea;
+    text-align: right;
+    background-color: #171e1c;
+    margin: 1px 100px;
+    padding: 30px;
+    text-decoration: overline;
+    text-transform: uppercase;
+}
+.three3{
+    font-family: "Verdana", serif;
+    font-size: large;
+    font-weight: lighter;
+    font-style: italic;
+    color: #e3d4db;
+    text-align: justify;
+    text-indent: 50px;
+    background-color: #27013a;
+    margin: 1px 50px;
+    padding: 25px;
+    text-decoration: line-through;
+    text-transform: lowercase;
+}
+.four4{
+    font-family: "Times New Roman", serif;
+    font-size: 25px;
+    color: #693333;
+    text-align: justify;
+    background-color: #341818;
+    text-shadow: 1px 1px 5px black;
+    margin: 50px;
+    padding: 30px;
+    outline: 5px dotted #000000;
+    border-radius: 30px;
+}
+.five5{
+    float: right;
+
+}
+.six6{
+    margin: 10px 30px;
+    width: 300px;
+    outline: 3px solid #247367;
+    border-radius: 15px;
+}
+.seven7{
+    background-image: url("../images/phone1.jpg");
+    background-size: cover;
+    font-style: italic;
+    font-size: 10pt;
+    color: #000000;
+    text-indent: 2%;
+    text-align: justify;
+    padding: 20px;
+    margin: 30px;
+    border-radius: 15px;
+    outline: 2px solid red;
+}
+.eight8{
+    text-align: center;
+    font-weight: bold;
+    font-size: 35pt;
+    color: darkred;
+    font-style: normal;
+}
+.nine9{
+    float: right;
+    margin: 50px 30px;
+    width: 150px;
+}
+.eleven11, a{
+    font-weight: bold;
+    color: purple;
+    font-size: 20pt;
+    text-decoration: none;
+}
+.twelve12, .list{
+    font-size: 20pt;
+    color: #da0000;
+}
+.ten10{
+    text-align: right;
+    font-size: large;
+    color: #d38686;
+    text-shadow: #00ffea;
+}
